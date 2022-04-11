@@ -1,5 +1,5 @@
 ### Hi there 👋
- - 🤖 I'm a postgraduate student in Shenzhen university.
+ - 🤖 I'm a postgraduate in Shenzhen university.
  - 🌱 I’m currently focusing on federated learning.
  - 👀 If you have any questions about my repos, just open an issue and I would reply you ASAP.
 
