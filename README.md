@@ -1,6 +1,6 @@
 ### Hi there 👋
- - 🤖 I'm a postgraduate student in Shenzhen university.
- - 🌱 I’m currently focusing on federated learning.
+ - 🤖 I'm a postgraduate student of Shenzhen University.
+ - 🌱 I’m currently focusing on federated learning, especially how to deal with Non IID data.
  - 👀 If you have any questions about my repos, just open an issue and I would reply you ASAP.
  - 📫 How to reach me: 787992532@qq.com
 <!--
