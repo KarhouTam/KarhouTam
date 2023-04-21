@@ -1,7 +1,8 @@
 ### Hi there 👋
  - 🤖 I'm a postgraduate student of Shenzhen University.
- - 🌱 I’m currently focusing on federated learning, especially how to deal with Non-IID data.
+ - 🌱 I’m currently focusing on federated learning, especially Personalized Federated Learning (pFL).
  - 👀 If you have any questions about my repos, just open an issue and I would reply you ASAP.
+ - 📫 How to reach me: 787992532@qq.com.
 <!--
 **KarhouTam/KarhouTam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
