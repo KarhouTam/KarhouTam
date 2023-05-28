@@ -18,4 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+🎉 I recently released my work [pFedSim: Similarity-Aware Model Aggregation Towards Personalized Federated Learning](https://arxiv.org/abs/2305.15706), which is under reviewed. The implementation is integrated in [FL-bench](https://github.com/KarhouTam/FL-bench).
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarhouTam&show_icons=true&count_private=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
