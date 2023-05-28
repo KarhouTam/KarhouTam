@@ -1,3 +1,4 @@
+
 ### Hi there 👋
  - 🤖 I'm a postgraduate student of Shenzhen University.
  - 🌱 I’m currently focusing on federated learning, especially Personalized Federated Learning (pFL).
@@ -18,6 +19,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/KarhouTam/count.svg" />
+</p>
 
 
 
