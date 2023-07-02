@@ -27,3 +27,7 @@ Here are some ideas to get you started:
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarhouTam&show_icons=true&count_private=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+## My Repos Star History ⭐
+
+[![Star History Chart](https://api.star-history.com/svg?repos=KarhouTam/FL-bench,KarhouTam/pFedLA,KarhouTam/SCAFFOLD-PyTorch,KarhouTam/Per-FedAvg&type=Date)](https://star-history.com/#KarhouTam/FL-bench&KarhouTam/pFedLA&KarhouTam/SCAFFOLD-PyTorch&KarhouTam/Per-FedAvg&Date)
