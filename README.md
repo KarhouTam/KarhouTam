@@ -12,5 +12,6 @@
  - 🎉 I recently released my first pFL work [pFedSim: Similarity-Aware Model Aggregation Towards Personalized Federated Learning](https://arxiv.org/abs/2305.15706). The implementation is integrated in [FL-bench](https://github.com/KarhouTam/FL-bench).
 
 
-[![FL-bench](https://github-readme-stats.vercel.app/api/pin/?username=KarhouTam&repo=FL-bench&theme=transparent)](https://github.com/KarhouTam/FL-bench)
+<!-- [![FL-bench](https://github-readme-stats.vercel.app/api/pin/?username=KarhouTam&repo=FL-bench&theme=transparent)](https://github.com/KarhouTam/FL-bench) -->
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KarhouTam&theme=transparent"/>
