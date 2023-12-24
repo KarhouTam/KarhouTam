@@ -1,15 +1,3 @@
-```
-                                         
-                      _____                            _   __              _                   
-                     |_   _|                          | | / /             | |                  
-                       | |        __ _  _ __ ___      | |/ /   __ _  _ __ | |__    ___   _   _ 
-                       | |       / _  ||  _   _ \     |    \  / _  ||  __||  _ \  / _ \ | | | |
-                      _| |_     | (_| || | | | | |    | |\  \| (_| || |   | | | || (_) || |_| |
-                     |_____|     \____||_| |_| |_|    \_| \_/ \____||_|   |_| |_| \___/  \____|
-
-
-```
-
 ### Hi there 👋
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=KarhouTam&show_icons=true&count_private=true&theme=transparent" />
