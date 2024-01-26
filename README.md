@@ -8,6 +8,7 @@
  - 👀 If you have any questions about my repos, just open an issue and I would reply you ASAP.
  - 📫 How to reach me: karhoutam@qq.com.
  - 🎉 I recently released my first pFL work [pFedSim: Similarity-Aware Model Aggregation Towards Personalized Federated Learning](https://arxiv.org/abs/2305.15706). The implementation is integrated in [FL-bench](https://github.com/KarhouTam/FL-bench).
+ - 🎊 The Next Stage: Huawei Cloud
 
 
 <!-- [![FL-bench](https://github-readme-stats.vercel.app/api/pin/?username=KarhouTam&repo=FL-bench&theme=transparent)](https://github.com/KarhouTam/FL-bench) -->
