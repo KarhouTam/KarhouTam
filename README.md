@@ -14,7 +14,9 @@
 
 <!-- [![FL-bench](https://github-readme-stats.vercel.app/api/pin/?username=KarhouTam&repo=FL-bench&theme=transparent)](https://github.com/KarhouTam/FL-bench) -->
 
+<!--
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KarhouTam&theme=transparent"/>
+!-->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KarhouTam/KarhouTam/output/github-contribution-grid-snake-dark.svg">
