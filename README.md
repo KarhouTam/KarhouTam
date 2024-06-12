@@ -1,13 +1,14 @@
 ### Hi there 👋
-
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=KarhouTam&show_icons=true&count_private=true&theme=transparent" />
 
+- 💼 I'm a software engineer of Huawei Cloud, Shenzhen.
+- 🎓 I received my master degree in computer science and technology from Shenzhen University (SZU), China.
+- 👀 At SZU, I majored in federated learning, especially personalized federated learning (pFL). I'm still interested in this field and caring its academic progress.
+- 🤗 Feel free to contact me for asking questions or seeking collaboration.
+- 🧐 I'm currently learning CUDA C programming and LLMs, which is not job required, but my interests. <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarhouTam&layout=compact" />
+
+
  
- - 💼 I'm a software engineer of Huawei Cloud, Shenzhen.
- - 🎓 I received my master degree in computer science and technology from Shenzhen University (SZU), China.
- - 👀 At SZU, I majored in federated learning, especially personalized federated learning (pFL). I'm still interested in this field and caring its academic progress.
- - 🤗 Feel free to contact me for asking questions or seeking collaboration.
- - 🧐 I'm currently learning CUDA C programming and LLMs, which is not job required, but my interests. 
  <!-- 
  - 🎉 I recently released my first pFL work [pFedSim: Similarity-Aware Model Aggregation Towards Personalized Federated Learning](https://arxiv.org/abs/2305.15706), which is totally REPRODUCIBLE and I'm proud of it. The implementation is integrated in [FL-bench](https://github.com/KarhouTam/FL-bench). 
  !-->
