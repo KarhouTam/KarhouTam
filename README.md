@@ -4,10 +4,10 @@
 - 💼 I'm a software engineer of Huawei Cloud, Shenzhen.
 - 🎓 I received my master degree in computer science and technology from Shenzhen University (SZU), China.
 - 👀 At SZU, I majored in federated learning, especially personalized federated learning (pFL). I'm still interested in this field and caring its academic progress.
-- 🤗 Feel free to contact me for asking questions or seeking collaboration.
+- 🤗 Feel free to contact me for asking questions or seeking collaboration. <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarhouTam&layout=compact" />
 - 🧐 I'm currently learning CUDA C programming and LLMs, which is not job required, but my interests. 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarhouTam&layout=compact" />
+
 
  
  <!-- 
