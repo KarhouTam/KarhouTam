@@ -1,5 +1,7 @@
 ### Hi there 👋
+<!--
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=KarhouTam&show_icons=true&count_private=true&theme=transparent" />
+!-->
 
 - 💼 I'm a software engineer of Huawei.
 - 🎓 I received my master degree in computer science and technology from Shenzhen University (SZU), China.
