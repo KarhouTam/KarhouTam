@@ -8,7 +8,7 @@
 - 👀 At SZU, I majored in federated learning, especially personalized federated learning (pFL). I'm still interested in this field and caring its academic progress.
 - 🎉 I've made some contributions to @[adap/Flower](https://github.com/adap/flower), a user-friendly and famous federated learning framework. Keep going!
 - 🤗 Feel free to contact me for asking questions or seeking collaboration. 
-- 🧐 I'm currently learning CUDA, MLSys, LLMs stuffs. Just my interests. 
+- 🧐 I'm currently learning CUDA, MLSys, LLMs stuffs. Just my interests (Well... Due to my job being completely unrelated to these things, progress is almost frozen 😴). 
 
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarhouTam&layout=compact" /> -->
 
