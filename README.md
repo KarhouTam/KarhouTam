@@ -5,7 +5,7 @@
 
 - 💼 I working as a software engineer of HUAWEI now.
 - 🎓 I received my master degree in computer science and technology from Shenzhen University (SZU), China.
-- 👀 At SZU, I majored in federated learning, especially personalized federated learning (pFL). I'm still interested in this field and caring its academic progress.
+- 👀 In SZU, I majored in federated learning, especially personalized federated learning (pFL).
 - 🎉 I've made some contributions to @[adap/Flower](https://github.com/adap/flower), a user-friendly and famous federated learning framework. Keep going!
 - 🤗 Feel free to contact me for asking questions or seeking collaboration. 
 - 🧐 I'm currently learning CUDA, MLSys, LLMs stuffs. Just my interests (Well... Due to my job being completely unrelated to these things, the progress is very slow... 😴). 
