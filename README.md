@@ -3,7 +3,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=KarhouTam&show_icons=true&count_private=true&theme=transparent" />
 !-->
 
-- 💼 I am working as a software engineer of HUAWEI now.
 - 🎓 I received my master degree in computer science and technology from Shenzhen University (SZU), China.
 - 👀 In SZU, I majored in federated learning, especially personalized federated learning (pFL).
 - 🎉 I've made some contributions to @[adap/Flower](https://github.com/adap/flower), a user-friendly and famous federated learning framework. Keep going!
