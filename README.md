@@ -8,7 +8,7 @@
 <!-- 
 - 👨‍🏭 A contributor of [@adap/Flower](https://github.com/adap/flower), a user-friendly and famous federated learning framework. 
 !-->
-- 🧐 I'm currently learning CUDA, MLSys, LLMs stuffs. Just my interests.
+- 🧐 Currently, I'm contributing to [pytorch/pytorch](https://github.com/pytorch/pytorch) and learning AI compiler, CUDA, MLSys, LLMs stuffs. Just my interests.
 - 🤗 Maintaining a benchmark framework of federated learning [FL-bench](https://github.com/KarhouTam/FL-bench) (600+🌟), which contains more than 40+ famous FL baselines implementation, researcher-friendly and supports parallel training (empowered by [@ray-project/Ray](https://github.com/ray-project/ray)).
 - 😉 Feel free to contact me for asking questions or seeking collaboration.
 
