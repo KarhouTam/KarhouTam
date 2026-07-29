@@ -2,8 +2,8 @@
 <!--
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=KarhouTam&show_icons=true&count_private=true&theme=transparent" />
 !-->
+<img align="right" src="https://github-readme-extended.vercel.app/api?username=KarhouTam&show_icons=true&count_private=true&theme=transparent" />
 
 - 🎓 I received my master degree in computer science and technology from Shenzhen University (SZU), China, majored in federated learning, especially personalized federated learning (pFL).
 <!-- 
