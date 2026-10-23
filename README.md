@@ -12,7 +12,7 @@
 !-->
 - 🧐 Currently, I'm contributing to [pytorch/pytorch](https://github.com/pytorch/pytorch) and learning AI compiler, CUDA, MLSys, LLMs stuffs. Just my interests.
   - PyTorch Collabroator
-  - 2026 PyTorch Contributor Award winner (Catalyst)
+  - 2026 PyTorch Contributor Award winner ([Catalyst](https://pytorch.org/contributor-awards/))
 - 🤗 Maintaining a benchmark framework of federated learning [FL-bench](https://github.com/KarhouTam/FL-bench) (600+🌟), which contains more than 40+ famous FL baselines implementation, researcher-friendly and **supports parallel training** (empowered by [@ray-project/Ray](https://github.com/ray-project/ray)).
 - 😉 Feel free to contact me for asking questions or seeking collaboration.
 
