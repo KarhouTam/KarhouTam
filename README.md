@@ -6,7 +6,7 @@
 !-->
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=KarhouTam&show_icons=true&count_private=true&theme=transparent)](https://github.com/stats-organization/github-stats-extended)
 
-- 👨‍💻 A open-source software enginner at Huawei. Like OSSs!
+- 👨‍💻 An open-source software enginner at Huawei. Like OSSs!
 - 🧐 Currently foucusing on [pytorch/pytorch](https://github.com/pytorch/pytorch) about AI DevOps, out-of-tree backend integration, compiler, profiler, etc.
   - PyTorch Collabroator
   - 2026 PyTorch Contributor Award winner (as [Catalyst](https://pytorch.org/contributor-awards/))
