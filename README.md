@@ -6,13 +6,11 @@
 !-->
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=KarhouTam&show_icons=true&count_private=true&theme=transparent)](https://github.com/stats-organization/github-stats-extended)
 
-- 🎓 I received my master degree in computer science and technology from Shenzhen University (SZU), China, majored in federated learning, especially personalized federated learning (pFL).
-<!-- 
-- 👨‍🏭 A contributor of [@adap/Flower](https://github.com/adap/flower), a user-friendly and famous federated learning framework. 
-!-->
-- 🧐 Currently, I'm contributing to [pytorch/pytorch](https://github.com/pytorch/pytorch) and learning AI compiler, CUDA, MLSys, LLMs stuffs. Just my interests.
+- 👨‍💻 A open-source software enginner at Huawei. Like OSSs!
+- 🧐 Currently foucusing on [pytorch/pytorch](https://github.com/pytorch/pytorch) about AI DevOps, out-of-tree backend integration, compiler, profiler, etc.
   - PyTorch Collabroator
-  - 2026 PyTorch Contributor Award winner ([Catalyst](https://pytorch.org/contributor-awards/))
+  - 2026 PyTorch Contributor Award winner (as [Catalyst](https://pytorch.org/contributor-awards/))
+- 🎓 I received my master degree in computer science and technology from Shenzhen University (SZU), China, majored in federated learning, especially personalized federated learning (pFL).
 - 🤗 Maintaining a benchmark framework of federated learning [FL-bench](https://github.com/KarhouTam/FL-bench) (600+🌟), which contains more than 40+ famous FL baselines implementation, researcher-friendly and **supports parallel training** (empowered by [@ray-project/Ray](https://github.com/ray-project/ray)).
 - 😉 Feel free to contact me for asking questions or seeking collaboration.
 
